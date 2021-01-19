@@ -1,4 +1,4 @@
-__author__ = "Elliot Ekman"
+__author__ = "Ekenit"
 __version__ = '1.0.1'
 
 from nornir import InitNornir
